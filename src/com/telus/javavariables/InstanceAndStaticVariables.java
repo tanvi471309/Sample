@@ -11,7 +11,7 @@ public class InstanceAndStaticVariables {
 
 	// Declaration and initialization of instance variable
 
-	String studNameOne="Roli Sharma";
+	String studNameOne="Rohini Sharma";
 	int studentRollNoOne=3;
 	int studClassOne=5;
 	String studAddressOne="Gomti Nagar, Lucknow";
